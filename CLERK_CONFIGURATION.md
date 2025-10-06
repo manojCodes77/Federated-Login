@@ -84,3 +84,4 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
 - [Clerk User Management Docs](https://clerk.com/docs/users/overview)
 - [Clerk Authentication Options](https://clerk.com/docs/authentication/configuration/sign-up-sign-in-options)
 - [Clerk Customization](https://clerk.com/docs/customization/overview)
+
